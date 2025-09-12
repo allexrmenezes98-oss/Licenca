@@ -1,10 +1,7 @@
 {
   "fVf9mvkEh9WuFyzqXZECaZrATJpZUqLJsfVscVVTVMZh4x0THo": {
     "Chave": "18h8hHy2gVT1gphVjI8Xka03K4yX7YRClJy8EpDmdXLyKCesDB0WypSXBg3xXPem",
-    "Validade": "10/09/2025 23:59:59",
-    "hardwareID": "BFEBFBFF000806C1+D09466CD510D+34d9e987-91bf-42e1-8a6e-8e72c61079ef+D09466CD510D+34d9e987-91bf-42e1-8a6e-8e72c61079ef",
-    "Instancia": "DBASQL\\MSSQLSERVER2014",
-    "AtivadoEm": "11/09/2025 12:44:39"
+    "Validade": "10/09/2025 23:59:59"
   },
   "59872311665912": {
     "Chave": "18h8hHy2gVT1gphVjI8Xka03K4yX7YRClJy8EpDmdXLyKCesDB0WypSXBg3xXPem",
@@ -12,5 +9,6 @@
   }
 
 }
+
 
 

@@ -6,8 +6,13 @@
     "Instancia": "DBASQL\\MSSQLSERVER2014",
     "AtivadoEm": "19/12/2025 08:41:19"
   },
+  "fVf9mvkEh9WuFyzqXZECaZrATJpZUqLJsfVscVVTVMZh4x0THXX": {
+    "Chave": "18h8hHy2gVT1gphVjI8Xka03K4yX7YRClJy8EpDmdXLyKCesDB0WypSXBg3xXPem",
+    "Validade": "31/12/2026 23:59:59",
+  },
   "59872311665912": {
     "Chave": "18h8hHy2gVT1gphVjI8Xka03K4yX7YRClJy8EpDmdXLyKCesDB0WypSXBg3xXPem",
     "Validade": "31/12/2025 23:59:59"
   }
+
 }
